@@ -1,0 +1,38 @@
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.exe
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.deps.json
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.runtimeconfig.json
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.runtimeconfig.dev.json
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.dll
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\ref\Calc-Forms2.dll
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.pdb
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.csprojAssemblyReference.cache
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.csproj.GenerateResource.cache
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.AssemblyInfoInputs.cache
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.AssemblyInfo.cs
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.dll
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\ref\Calc-Forms2.dll
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.pdb
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.genruntimeconfig.cache
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc_Forms2.Properties.Resources.resources
+C:\Users\cliente\source\repos\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc_Forms2.Form1.resources
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.exe
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.deps.json
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.runtimeconfig.json
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.dll
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\ref\Calc-Forms2.dll
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\bin\Debug\net5.0-windows\Calc-Forms2.pdb
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.csprojAssemblyReference.cache
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc_Forms2.Form1.resources
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc_Forms2.Properties.Resources.resources
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.dll
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\ref\Calc-Forms2.dll
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.pdb
+C:\Users\cliente\Desktop\Nova pasta\Calc-Forms2\Calc-Forms2\obj\Debug\net5.0-windows\Calc-Forms2.genruntimeconfig.cache
